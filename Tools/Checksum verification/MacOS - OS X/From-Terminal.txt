@@ -1,0 +1,10 @@
+Run these commands in terminal - MD5 for checking an MD5 hash, SHA1 for a SHA1 hash, etc.
+
+For MD5: "md5 filename.filetype"
+
+For SHA1: "shasum -a 1 filename.filetype"
+
+For SHA256: "shasum -a 256 filename.filetype"
+
+For SHA512: "shasum -a 512 filename.type"
+
